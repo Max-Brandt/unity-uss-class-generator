@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Uss_Generator_Sample/MainStyle.uss?fileID=7433441132597879392&amp;guid=24775bbe2dd24084084aea73286cc28b&amp;type=3#MainStyle"/>
+    <ui:VisualElement name="Screen" style="flex-grow: 1; align-self: center; justify-content: center;">
+        <ui:Button text="MyButton" name="MyButton" class="button radius"/>
+    </ui:VisualElement>
+</ui:UXML>

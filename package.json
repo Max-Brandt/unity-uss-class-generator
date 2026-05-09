@@ -1,0 +1,22 @@
+{
+  "name": "com.max-brandt.uss-class-generator",
+  "version": "0.0.1",
+  "displayName": "USS-Class Generator",
+  "description": "",
+  "unity": "6000.3",
+  "unityRelease": "13f1",
+  "keywords": [
+    "UI-Toolkit"
+  ],
+  "author": {
+    "name": "Max Brandt"
+  },
+  "dependencies": {  },
+  "samples": [
+    {
+      "displayName": "Uss Generator Scene",
+      "description": "Example Scenes for USS Generation.",
+      "path": "Samples~/Uss_Generator_Sample"
+    }
+  ]
+}
